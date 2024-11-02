@@ -18,5 +18,29 @@ Testando diferentes formas e combinações de formatação:
    - *~~ITALICO e RISCADO~~*
 ---
  ### Listas Numeradas
+ 1. Git e GitHub
+ 2. Lógica de Programação
+ 3. Linguagem de Programação
+ 4. FrameWork
+ 5. Banco de Dados
+
  ### LIsta Demarcada
+ - Lógica de programação
+    - Algoritimos
+ - Linguagem de Programação
+    - Aplicativos
+ - FrameWork Web
+    - Projetos
+ 
  ### Lista de Tarefas
+ -[] Git e GitHub
+ 
+ -[] Lógica de Programação
+ 
+ -[] Linguagem de Programação
+ 
+ -[] FrameWork
+ 
+ -[] Banco de Dados
+
+ **OBS:** *para colocar como concludo basta colocar um **X** no quadrado*
