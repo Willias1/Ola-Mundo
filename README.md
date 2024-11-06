@@ -43,4 +43,4 @@ Testando diferentes formas e combinações de formatação:
  
  -[] Banco de Dados
 
- **OBS:** *para colocar como concludo basta colocar um **X** no quadrado*
+ **OBS:** *para colocar como concludo em cada tarefa basta entrar no Marckdown colocar um **X** na opção concluida*
